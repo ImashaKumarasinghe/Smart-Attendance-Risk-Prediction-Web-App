@@ -1,0 +1,6 @@
+Student_ID,Name,Date,Time,Face_Detected,Status
+STUDENT1,student1,2026-06-19,16:41:42,1,Present
+STUDENT2,student2,2026-06-19,16:41:42,1,Present
+STUDENT3,student3,2026-06-19,16:41:42,1,Present
+STUDENT4,student4,2026-06-19,16:41:42,1,Present
+STUDENT5,student5,2026-06-19,16:41:43,0,Absent
